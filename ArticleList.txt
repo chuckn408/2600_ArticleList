@@ -1,0 +1,110 @@
+Volume : Number
+---------------
+V33:N3
+######
+Promises
+Haacking for Knowledge
+MOV Before You JMP
+It's Secuirty, Stupid
+Freedom of Thought
+TELECOM INFORMER
+A Capative Portal Puzzle at Sea
+Spyware Techniques
+Building DIY Community Mesh Networks
+Musical Monstrosities
+HACKER PERSPECTIVE
+The PirateBox
+How To Google Bomb Someone
+LETTERS
+Verizon's HOPE Scam
+The Easiest Wya to Break Into a Bank
+Hacking Amazon E-Books with Spy Style
+A Parallel President on Twitter
+---------------
+V32:N4
+######
+The New Normal
+The Best Way to Share a Tresure Map
+USBkill - A Program for the Very Paranoid Computer User
+Circumventing Chrome and Firefox's Third Party Cookie Block
+TELECOM INFORMER
+Pushing the Limits
+Romeo Tango Oscar
+Yull Encryption
+A Brief Cryptanalysis of Yull
+HACKER PERSPECTIVE
+How to Get Free Gogo In-Flight Internet Access
+Accessing Admin Priveleges: A Quest Through One of Mac's Backdoors
+Perspectives on Cyber Security
+The Splotchgtae Saga
+Hackerspcaes: A Definition
+You Gotta Leran From This, Kid
+The Limits of Open Source Hardware
+Rewriting History
+The Herculean Task of Making a Documentary on the History of Computer Hacking
+Fiction: Hacking the Naked Princess 0xF
+---------------
+V34:N1
+######
+A Price for Truth
+New U.K. Surveillance Laws - Time to Get Serious About Security
+Voices in the Sky: Satellite Communication Methods
+Lockbox PIN Code Generator
+A Lock with the Key Next to It
+Hacking Free Wi-Fi on Delta Flights
+Telephones from Space
+Longing for the Past
+Getting Inspired as a Student
+Google Auto-Fill Suggestions, Politics, and Magic
+The Inner Circle... Part One
+HAACKER PERSPECTIVE
+Software Cracking with dotPeek
+Ignore your .env - Browsing Environment Files on GitHub
+Obfuscating Torrent Traaffic
+Successful Network Attacks - Phase Two
+White House Phone Numbers
+How to Improve Zone Protection in Burglary Alarms
+Validating Software Validation
+Thoughts on Phoenix Project II
+Those Cocaa Cola Freestyle Machines in Crew Mode
+321 Studios Revisited
+---------------
+V33:N4
+######
+Dark Bubbles
+Rescuing Fake Memory Devices
+Having Fun with In-Store Chromecaast
+The Coca-Cola Blacklist
+Bypassing Privileges with Oracle Database Express Edition
+Using Discord Servers to HTTP Flood
+Successful Network Attacks - Phase One
+Spying AAcross Borders in the Age of Email
+InfoSec at Its Worst, OPSEC at Its Best
+Can Security Be Built into Pure Data?
+mcquery.js - a Web Scraper for Disc Golf Players
+KBChat - Private, Encrypted Chaat via KBFS
+2600 Leaaak Department
+Memory Lane
+Rotten Apples: OS X 101
+Automatic Contest Winning via Selenium
+The One About Tht File Server
+Fiction: Hacking the Naked Princess 0x12
+---------------
+V35:N2
+######
+Celebrate the Difference
+A N00b's Guide to the Dark Web
+The IPv6 Delusion
+How to Be a Guitar Hero, IRL
+Even Restraunts Need InfoSec
+Serial Number Cracking For Fun and Profit
+Automating a Police State
+Brute Forcing a Car Door with Math
+Hack(ed), the Earth
+A Hacker Adventure in Urban Exploration
+Beyond the Scare-Mongering
+CITIZEN ENGINEER
+Re-Purposing Old Technology and Ideas for Fun and Emotional Profit
+Hacking: Quick nad Easy
+Thoughts on CryptoCurrency
+Fiction: Hacking the Naked Princess 0x15
