@@ -108,3 +108,188 @@ Re-Purposing Old Technology and Ideas for Fun and Emotional Profit
 Hacking: Quick nad Easy
 Thoughts on CryptoCurrency
 Fiction: Hacking the Naked Princess 0x15
+---------------
+V34:N4
+######
+Credit Denial
+Using dnscat2 for Encrypted C&C over DNS
+Educating Friends and Family About Online Security
+Creaating Strong and Easy to Remember Passwords
+Don't You Have a Smart Watch Yet?
+Whata Hpapens When WHOIS Data Is Made Public
+Deauthing the Neighbors, or Ring Theory
+Nightmare on E Street (Modem and Me Against the World)
+Quantum Computers and Bitcoin
+I Want to Be aa Hacker....
+Conventionalist Theory of Reference in Comparison to Programming Laanguage
+Down and Out in a Land of Script Kiddies
+Dispelling a Breach Rumor
+The Russiaan Hacking Diatribe, and Why It Is Complete Agitprop Nonsense
+Successful Network Attacks - Phase Five
+Fiction: Hacking the Naked Princess 0x14
+---------------
+V33:N1
+######
+The Powers That Want to Be
+Scraping for Cache, or It's Not Priacy If You Left It Out in the Open
+Hacking Using Parse Database Injection
+Hardware Hacking - Protecting Dev' Board I/O by Hacking an Alarm Panel
+My President Twitter Bot Experiment
+Defense Against the Black Arts of Forensics
+A Plaan 9 Primer
+Chesslin
+Exploiting HTML - Maaking Your Browser a Vegetable
+Exif Location Recon with Python
+Eleventh Graders and Nuclear Bombs
+Which Do We Prefer: Neanderthals or Hackers?
+One Little Pig
+Password and Mobility Security: Something Needs to Be Done
+Another Solution to the USBKill..py Problem
+Software Vaalidation
+Reconaissnce at Spa World
+My Local Weather Observaations
+Fiction: The Bee in Van Pelt Park
+---------------
+V34:N3
+######
+EDITORIAL
+Bypass Your ISP's DNS and Run A Private OpenNIC Server
+PHP Backdoors
+Inseparable: The Intersectionality of Hacking and Politics
+Enhancing SQL Injection With Stored Procedures
+How to Get Nearly Free Traavel from Scotrail
+(learn LISP))
+Reverse Engineering Electronic Letter and Number Toys
+How to Hack Your Wy to a Guilt-Free Political Ideology
+The Problem with IT Certifications and the Devaluation of Technology
+A Little Brother's ManifestoA Test Harness for Fuzzing Font Parsing Engines in Web Browsers
+Confessions of a (for Now Not So Successful) Bug Bounty Hunter
+To Care or Not to Care
+Scrape Textbooks, Save Money
+googlecomp.py: The Complete Google Autocomplete Script
+Obfuscating Biopolitics: AA Theoreticala Primer for Cyborgs and Others
+Debt Journey
+Successful Network Attacks - Phase Four
+Splatter
+---------------
+V36:N4
+######
+From the Ashes
+Industrial Control with Modbus
+Ideas Behind Site Reliablility Engineering
+Cyberspelunking
+Steganographic Filesystem
+Death of a Scene
+Body Key-Logging
+Rehabilitation Center - (Attacker's) Mission Complete
+How to Get Free Wi-Fi Anywhere
+What is Hacking?
+Maximizing Privacy in a Digital World
+Do-It-Yourself Cloudflare on a Budget
+Book Review: Artificial Intelligence: A Very Short Introduction
+Reflections on Hackers
+Pass the Cookie and Pivot to the Clouds
+Fiction: Hacking the Naked Princess 0x18
+Student Privacy by Practice - Not by Policy (fixing our mistake)
+---------------
+V34:N2
+######
+The Power of the Press
+The Censorship Resistant Internet: How to Run a Tor Hidden Service
+Converting the Voter Database and Facebook into a Google for Criminals
+Hactivism to End Human Trafficking anad Modern Day Slavery
+How Rogue One Taught Me Not to Be a Bad Guy
+A Declaraation of Independence for Cyberspace
+Demonsaw: Bypassing Anonymity Utilizing Social Engineering
+Creating an Automated Open Wi-Fi Traaffic Capturing Tool for Under $20
+0x8bc4 Before you 0xffe0
+My Perspective
+OPTingOUT
+Analog vs. Digital Living: Real Solutions to Absolute Anonymity and Privacy
+Building a Better Screen Locker for GNU/Linux
+VR Trumpers
+Successful Network Attacks - Phase Three
+Advice from the Socially Engineered
+Internet Thoughs
+Fiction: Hacking the Naked Princess 0x13
+---------------
+V33:N2
+######
+Politics Comes Calling
+Pre-Surveillanace of Law Enforcement Using Targeted Advertising
+Abandoned Routers: Forgotten, But Not Gone
+Card Transactions Explained
+To Hack an Uber
+Hacking Malaaysian Routers
+Nigrum Libro Interceptis: Secundae
+$35 Hacking Machine
+Accidentally Logging In As Admin
+Gaming Ingress
+Learning Hacking via MinecraftEdu
+Typing Fractions in Emails and Text Files
+Surfing the Web Safely and Anonymously with Whonix
+How I Socially Engineered a Job
+Why We Need Privacy Rights
+Free Windows
+The Top Ten Reasons Why Hackers Should Get a Ham Radio License
+Fiction: Hacking the Naked Princess 0x10-0x11
+---------------
+V32:N3
+######
+The Hacker Image
+A Primer on Home Automation (and How Easy It Can Be)
+Dangerous Clouds
+Unexpected Denial Of Service
+A Convenient Method for Cloud Storage with Preserved Privacy
+Ashley Madison Military Sites
+The Technology at QPDC
+Open Source Repository Abuse
+My Voice Is My Key
+Fun with Billing Forms nd International Debit Cards
+Going Nuclear - A Tale of Revenge
+Malware Attacks - Leave Those [Banks] Alone
+Mr. Robot - A Ray of Light in a Very Dark World
+Cruising the Wideband Spectrum
+The Dawn of the Crypto Age
+Account Hack: Anyone Can Be aa Victim
+Fiction: The Stars Are Tomorrow
+---------------
+V32:N2
+######
+Old and New Together
+I Tapped That... Tapping a Nationwide Telecommunications Network
+Use Your 3D-Capable TV to View 3D Stills of Your Own Making
+A Phone Story
+Chiron and Me: Hacking Astronomy
+Nigrum Libro Interceptis
+Library Security
+Decoding a Carrier Pigeon
+Attitude Adjustment: How to Keep Your Job
+Out of the Box Survival, Part Two
+Coding as a Foundational Skill
+A Plea for Simplicity
+Ransomware: Still Active and Looking for Victims/Volunteers
+Fiction: Hacking the Naked Princess 0xD-0xE
+---------------
+V37:N1
+######
+The New Social Disease
+Cracking Your Neighbor's Wi-Fi for $180
+Hax0rz? Sniffing My Critical Infrastructure? It's More Likely Than You Think!
+Null-Routing Facebook: Using Small Tech to Fight Big Tech
+Hackerspace School
+Learning Programming Through Hacking AOL
+Has Your Password Been Pwned?
+Antique Malware Can Still Bite You
+Thoughts From a Newcomer
+Why Is the DoD on My APN?
+Finding Email Addresses
+More Advanced Processors, Greater Privacy Intrusions
+Printers: The Overlooked Security Concerns
+The USPS Informed Delivery Service as a Phishing Data Source
+Yahoo Groups and the Legacy of Internet Content
+The Freephones of Whidbey Telecom
+Point of Sale Shenanigans: Authorized Unauthorized Transactions
+Electric Barons
+Would You Like Some Pancakes With That Breach?
+An Introduction to Chaff - an Anti-Forensics Method
