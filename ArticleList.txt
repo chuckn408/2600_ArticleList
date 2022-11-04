@@ -293,3 +293,387 @@ Point of Sale Shenanigans: Authorized Unauthorized Transactions
 Electric Barons
 Would You Like Some Pancakes With That Breach?
 An Introduction to Chaff - an Anti-Forensics Method
+---------------
+V37:N2
+######
+Adaptation
+Skimming Credit Card and ACH Payment Details from Tigerpaw Software Clients
+The Pipe Dream of Sensible School Internet Policy
+Windows Subsystem for Linux. A n00b5 Toy?
+Towards a Secure Telephone Network
+Ghost an Operating System for Privacy
+Trackign Wi-Fi Devices with Python and GPS
+Industrial Control Systems and Cybersecurity
+Bad ISP OpSec
+Anonymous Temporary Storage and Retrieval
+How to Become a Hacker in 24 Hours
+Thinking in AI
+Fun with Text to Speech
+Hacker Email
+Cerebral Spill
+OhNoDaddy: GoDaddy Compromised
+Book Review: The History of the Future
+ARTIFICIAL INTERRUPTION
+The Rse of the Machines - Learning to Detect DGAs
+Responsible Disclosure of a Malware Infiltration Attempt
+Fiction: Hacking the Naked Princess 0x19
+---------------
+V36:N3
+######
+Our Audacity
+Fully Homomorphic Encryption and Privacy
+Who Is Watching Us?
+The Mysteries of the Hidden Internet
+Breaking DirecTV's DVR Authentication
+Machine Rhapsody in 2099
+Introduction to Computer Viruses, Example in Windows Powershell
+All You Need is... Air
+Twitter the Enemy
+Student Privacy by Practice - Not by Policy
+Online Thrift Stores Have Your Data
+Active Defenses for Industrial Espionage
+The Infocalypse
+Book Review: The Big Nine: Tech Titans and Their Thinking Machines
+Book Review: A People's History of Computing in the United States
+CITIZEN ENGINEER
+The Case Against Certified Ethical Hacking
+Thoughts on Account Enumeration
+Arduino-Based Burglary Zone Input Tester
+"Information is Neutral" and Other Social Myths
+---------------
+V35:N4
+######
+Taking Back Ownership
+1979 Plus 40 Years
+AV1: One Giant Leap for Video-Kind
+YITM
+Social Engineering from Prison
+A Brief Tunneling Tutorial
+Quantum Computers and Privacy
+Hacking the School System
+A Reading of the AI Hype Meter
+Thumbcache.db Primer
+Sorting It All Out: The Long Lost Bastard Children of the United States Postal Service
+Configuration Negligence: Who is Responsible?
+Facts About Honesty/Integrity Tests and Interviews
+Book Review: Surveillance Valley: The Secret Military History of the Internet
+Book Review: Ten Arguements for Deleting Your Social Media Accounts Right Now
+Modem and Me: The Loose Ends
+A Fork() in the Road
+Making an Informed Business Decision Using Public Financial Records
+To the Unknown Hacker
+Hacking in a Slow Job Market
+Fiction: Hacking the Naked Princess 0x16
+---------------
+V35:N3
+######
+Injustice for All
+Digital Sanctuary Cities
+Removing eBook DRM without OCR or GUIs
+A Carrier Pigeon Revisited
+The Evolution of Ran$omware
+Hackers to the Rescue! (Maybe)
+Book Review: The Art of Invisibility
+GDPR - Active Empowerment vs. Passive Consumerism
+A Characteristic Study of IoT Botnets: Understanding the Design and Behavior
+Ms. Reality Winner is an American Dissident
+More Ways to View Hacking
+Totalitarian Control: How We Used PowerShell to Manipulate User Behavior
+What Do Lawyers and Hackers Have in Common?
+No Country for Incarcerated Hackers
+Bypassing Email Anti-Spam Filters
+Hacker History: MDT or "The Mass Depopulation Trio"
+Testing Your l337 h4x0r skillz Safely and Legally
+Gone Phishin'
+---------------
+V36:N1
+######
+Preserving the Future
+Reverse Engineering Android Apps
+Android Smartphone Secret Codes: Revealed
+How to Make Your eBooks Inheritable
+Web Scraping Scripts
+Performing a MacGyver to Call Anyplace Home
+Blast Accusations for Cybersecurity Intel
+Be a Good BitTorrent Citizen
+A Guide to ALKEMI
+Second-Generation Quantum Computers
+In-Browser Cryptojacking: An Old Threat in a New Guise
+So You Want to Be a Coder
+CITIZEN ENGINEER
+Lights Out! Guerilla Radio
+Why You Should Always Give out Your Telephone Number with the Area Code
+We Just Called Them Dialers
+Book Review: Weapons of Math Destruction
+---------------
+V36:N2
+######
+Convictions
+Porting IoT Malware to Windows
+There Is No Magic in the Clouds
+Dank Kush or Fleet Vehicles?
+How to Defeat Intelligence Tests
+Connecting to the Internet for Free Using Iodine
+Book Review: Broad Band: The Untold Story of the Women Who Made the Internet
+We Will Rock You
+The Hacker Mindset or How We Can Move the World
+Let's Just Call It BitCon
+The Madness Debate(or How I Got Locked out of My Computer)
+Mechanical Keyboards
+The Multiple Persona Theory of Digital Secrecy
+Mini Mate - Rescuing Hardware from the Graveyard
+CITIZEN ENGINEER
+Get Those Digits
+Potential VPN Attacks
+Working for an ISP
+Fiction: Hacking the Naked Princess 0x17
+---------------
+V35:N1
+######
+Embracing Empowerment
+The Secrecy and Security of the Special Counsel
+What Programming Language Should I Learn? Why Not All of Them?
+Breaking Standards?
+How to Run an I2P Hidden Service
+Bitcoin or Bit Con? One Newbie's Adventures in Cryptoland
+The Case of the Murderous AI
+In Defense of the Net
+A Review of CopperheadOS
+SSH Keys and Challenges in Enterprise Environments
+Unlocking the Secret of Keys
+Hacking our Attitudes (The Key to Being a Better Attitude Trumper)
+Historic Hacking
+CITIZEN ENGINEER
+Bluetooth Hacking 101
+Hidden ISPs
+Extrapolating Phone Numbers Using Facebook and Paypal
+The Free Flow of Information
+---------------
+V32:N1
+######
+Nous Defions Tout
+So, You Want to Be a Darknet Drug Lord....
+Out of the Box Survival - A Guide to Powershell Basics
+Brazil's Electronic Voting Booth
+Evolution of a Hack
+Bleeper - Downloading Full-Length Preview MP3s from bleep.com
+The Enterprise, the Subverted PKI Trust Relationship, and You
+WYSE Moves
+Office Talk or Social Engineering?
+Archiving ComiXology
+McAfee Family Protection - Epic Fail!
+Abusing the Past
+Hacking the HandLink Gateway
+Ohio Prison IT Security from the Inside
+Hacking For Knowledge
+Linux Containers for Event Training
+Are Smart Meters the End-All?
+---------------
+V31:N3
+######
+A Tale of Many Hackers
+The Demoscene - Code, Graphics, and Music Hacking
+Bugging a Room with an IP Phone
+Hack the Track: Put Your Money Where Your 0wn Is!
+Linux Pwned - Just Not By Me
+Writing Buffer Overflows for Non-Programmers
+Remailing with USPS
+Forensic BioInformatics Hacks
+Spam: Where Does It Come From?
+Checkmate or How I Bypassed Your Security System
+Installing Debian on a Macbook Pro without rEFInd or Virutal Machines
+Film Review: Die Gstettensaga: A Call to Class Consciousness for Hackers
+Xfinite Absurdity: True Confessions of a Former Comcast Tech Support Agent
+Covert War-Driving with WiGLE
+Quantum Computers for Code Breaking
+InfoSec and the Electrical Grid: They Go Together Like Peas and Carrots
+---------------
+V37:N4
+######
+Errors in Freedom
+The TikTok Spyware Conspiracy
+Hacking Digital Signage Screens
+How To Write Malware in PowerShell - Tips and Tricks
+Beyond the Breach: An In-Depth Look into the Cyberinsurance Industry
+Right To Be Forgotten - Network and Home
+What Three Words, and Your 2600 Meeting
+The Brazilian Phone System Revisited
+Hacking the Game Rules
+Book Review: If Then: How the Simulmatics Corporation Invented the Future
+Hosting Under Duress
+How One "S" Can Make a Difference
+COVID-19: A Tale of Two Mindsets
+Normalizing SASsy Data Using Log Transformations
+ARITIFICIAL INTERRUPTION
+Work From Home Through P2P Network
+Chromebook as a Web Hacking Platform
+Thinking in AI - Can AI Wake Up?
+Thoughts on Bitcoin
+---------------
+V37:N3
+######
+The Blame Game
+Smile, You're On Camera
+Cyber-Pandemic: The World in Ruins
+Understanding Election Security Through the Lens of the Hierarchy of Voter Needs
+HOPE 2020 Fulfilled - Debrief Overview
+Hackign Rotary Dials
+QR Chaos
+Knowing What To Search For
+Clean Rooms and Reverse Engineering
+Searching Government Quiz Sites for Hidden Answers
+Taking Control of Your Devices
+The NSRL For Hackers
+Make Viri Great Again
+ARTIFICIAL INTERRUPTION
+What's Old Is New Again - We Are Still Jackpotting ATMs
+Facebook's Efforts Against Ad Blocking
+Red Light Robin Hood
+The Elements of a Raven Matrix
+---------------
+V38:N1
+######
+Forward Thinking
+Anonymity, Privacy, and Reality
+What Hacking My County's Election Worker Portal Taught Me
+Ham Radio, SMS, and the ISS
+Randomize Your Exit Node
+Logging Discord Tokens
+Trojan Detection and Avoidance
+5G Hotspots and Tinc
+Book Review: We Have Been Harmonzied: Life in China's Surveillance State
+A Layman's Intro to Quantum Computers
+Inside Job: Exploiting Alarm Systems and the People Who Monitor Them
+Why Are We Still Having This Conversation? Embedded Systems Still Not Secure
+How Does NSA's XKEYSCORE Project Work?
+A Proposal for the Elimination of Passwords
+Life Lessons Can Help You Sneak Into a Crowded Conference
+AI In Dating Simulations Games
+ARTIFICIAL INTERRUPTION
+Hacking HP's OfficeJet 6310
+The Net As Seen in China
+Picture This
+Why I Am a Hacker: Hacking In the Era of COVID-19
+---------------
+V38:N2
+######
+What is Truth?
+More Privacy and Better Security Through Email Diversification
+Three Fundamental Questions
+Fluc Google's FLoC
+Municipalities Pwned at Greater Rates!
+The Demise of Network Security
+Who's Training Whom?
+Hacking Motion Capture Software and Hardware
+How to Read 2600 Magazine
+Verified Badges for Everyone?
+Gone Fishin'
+Vulnerabilities in Deep Artificial Neural Networks
+The Telegraph Regulations and Email
+Facebook and the FBI
+When 5G Technology and Disinformation Collide
+How to Hack the American Mailz
+"Post-Quantum Cryptography" Is Not Going to Work
+Book Review: RESET: Reclaiming the Internet for Civil Society
+Book Review: Rabbits
+ARTIFICIAL INTERRUPTION
+How To Create Your Own Privacy-Enabled Sunglasses
+A File Format to Aid in Security Vulnerability Disclosure
+"Hello fellow sentient being,"
+An Atavistic Freak Out, Episode One
+---------------
+V38:N3
+######
+Amplification Gone Wrong
+Wherever You Go, There You Are
+Using "DeepChecksum" to Ensure the Integrity of Backups
+I Thought the Cyberpunk Dystopia Would Be a Hacker Paradise
+Where Have All the Tor Sites Gone?
+The FBI Communications Breach of 2010: Applications and Perspectives
+Book Review: Press Reset: Ruin and Recovery in the Video Game Industry
+The Phreak's Guide to Identifying North American Phone Switches, Part One
+Empty Houses
+The Art of the Troll
+Exploring Old MS Paint Formats
+Keyspace Iterator in AWK
+Hacking NYC MTA Kiosks
+What's With This Username Stuff, Anywho?
+The Matrix Is Real: How to Hack Humans for Fun and Profit
+ARTICICIAL INTERRUPTION
+Why TikTok Activism Made Actual Hacktivisim Harder
+Reply to: "Normalizing SASsy Data Using Log Transformations"
+Thoughts on "Verified Badges for Everyone?"
+The Lost Art of Windows 9x Pranking
+An Atavisitic Freak Out, Episode Two
+---------------
+V38:N4
+######
+The Hacker Curse
+L-Band: Frequencies and Equipment You Need to Know About
+In the Trenches: Working as a Security Analyst
+How to Hack a Router Device Like NSA Employeees
+Bitcoin: The Major Difference
+Privacy Matters
+Inside the New World of Cryptocurrency Phishing
+Firewall Netcat
+Hacking the Medical Industry
+Putting Events on Twitter With the Help of Emojis
+The Solution to the Technological Singularity
+leet.c
+Making Boring Work Great Again
+Hacking Dark Souls II
+Tenth Grade Social Engineering Project
+When Onen Door Closes
+Supply and Demand, Apollo 11, and GitHub
+ARITICIAL INTERRUPTION
+Hacking and Knowing - Some Thoughts on Masking Threshold
+Book Review: I Have Nothing to Hide
+Keeping Busy When Retired - It's Important
+An Atavistic Freak Out, Episode Three
+---------------
+V39:N1
+######
+Renewed Hope
+How to Create a Practical Burner Phone for the Average User
+Exploring the BACnet Protocol for Fun and Profit
+How to Use Gmail to Send Emails From an SMTP Server That You Do Not Own
+FOIA as Weapon
+Data Analysis as the Next Step
+Web 3.0 is Bullshit
+Book Review: Sandworm
+Why You Need to Self-Host
+Should I or Shouldn't I? Randsomeware Negotiation
+Social Engineering Attacks Out of Control
+Sleuthing Google Apps Part 1: Google Calendar
+I Love Smart Working
+The Phreak's Field Guide to Identifiying North American Phone Switches, Part Two
+ARTIFICIAL INTERRUPTION
+Has the CIA Cloud Service Become More Secure? Negative
+The Author Does Not Exist
+Harnessing Cryptocurrency Miners to Fight Climate Change
+An Atavistic Freak Out, Episode Four
+---------------
+V39:N2
+######
+Social Media Is Neither
+Phisphing in 2022
+Plain Text in Plain Sight: Smaller Alternatives to the World Wide Web
+Battle for Better Batteries
+Command Line Unminifier
+The Problem of Effective and Usable Strong Passwords
+Hacking Traffic Lights
+I'll Take Some Vigenere With My Caesar
+Applications, Places, System: A Personal View of Linux
+Dial-a-Word
+End of the Dream
+Why Exploiters Should Optimize Their Code
+Hacking Into the Past
+The Dark Side of DarkMatter: The Evil Hackers Behind Project Raven
+I Don't Think I Was Supposed to See That
+About Conversation, Thought, and Language
+ARTIFICIAL INTERRUPTION
+Brute-Forcing a Museum's Math Puzzle With Python
+Hacking and Politics: Why Talking About Both Matters
+An Atavistic Freak Out, Episode Five
+---------------
+######
