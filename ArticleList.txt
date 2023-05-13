@@ -701,8 +701,9 @@ Freedom of Speech: Terms and Conditions
 People vs. Corporations
 An Atavistic Freak Out, Episode Six
 ---------------
-######
+
 V39:N4
+######
 Inconvenient Truths
 You Can Use the Daark Web for Good
 Degradation as DRM
@@ -726,3 +727,38 @@ scan.sh
 The Search for Life at 300 Baud
 Hey I Paid For This Cabin
 An Atavistic Freaak Out, Final Episode
+---------------
+V40:N1
+######
+Progress of a Sort
+Sleuthing Google Apps Part 2: The Google Application Suite
+What About Tomorrow's Hackers?
+Hacker Movies
+A Post-Soviet Payphone Trick
+TELECOM INFORMER
+Organizing Music Files With SongRec and Shazam
+What Is a Hacker?
+Automated Vulnerability Scanners and a False Sense of Security 
+A COSMOORED Configuration Flaw
+A Holistic Approach is Better
+The Great Resignation: Faux Recruiters Social Engineering the **** Out of Applicants
+HACKER PERSPECTIVE
+Hacking The Lenovo 11e Chromebook
+Known Plaintext Attacks Are Caesar-ous Business
+American Shanzai, Part 1
+
+LETTERS
+EFFECTING DIGITAL FREEDOM
+What is Futel?
+The Power of Try
+AI For Content Generation
+Neuralink Thoughts
+Quantum Computer Algorithms, Part 1: Quasi-Classical Methods
+ARTIFICIAL INTERRUPTION
+OpenAi's Chat-GPT3: A Manipulating PR Tool
+
+Readme.exe
+A Lifetime of Computing
+HACKER HAPPENINGS
+MARKETPLACE
+MEETINGS
