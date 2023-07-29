@@ -701,7 +701,6 @@ Freedom of Speech: Terms and Conditions
 People vs. Corporations
 An Atavistic Freak Out, Episode Six
 ---------------
-
 V39:N4
 ######
 Inconvenient Truths
@@ -746,7 +745,6 @@ HACKER PERSPECTIVE
 Hacking The Lenovo 11e Chromebook
 Known Plaintext Attacks Are Caesar-ous Business
 American Shanzai, Part 1
-
 LETTERS
 EFFECTING DIGITAL FREEDOM
 What is Futel?
@@ -756,9 +754,43 @@ Neuralink Thoughts
 Quantum Computer Algorithms, Part 1: Quasi-Classical Methods
 ARTIFICIAL INTERRUPTION
 OpenAi's Chat-GPT3: A Manipulating PR Tool
-
 Readme.exe
 A Lifetime of Computing
 HACKER HAPPENINGS
 MARKETPLACE
 MEETINGS
+---------------
+V40:N2
+######
+Artificial Nonsense
+Programming of the Past
+Science Fair and Congressional Farce
+A Chain Addition Generator in AWK
+Quantum Computer Algorithms, Part II: Amplitude Amplification
+The Metaverse Is a Solution Looking for a Problem
+Solipsism, AI, and the Future of Empathy
+TELECOM INFORMER
+Why I Am Not Panicked About Being Replaced by AI
+Social Engineering: Quiet Nights Are Here Again
+Hunting Apps for OSINT
+Hacking the Hackers
+Is There Anything Else I Can Assist You With?
+HACKER PERSPECTIVE
+Giving a Damn: Response to "A Holistic Approach is Better"
+Book Review: The Future of National Intelligence
+American Shanzai, Part 2
+LETTERS
+EFFECTING DIGITAL FREEDOM
+Next Level AI: ChatGPT
+Tomorrow's Challenges: Non-Fungible Tokens
+ARTIFICIAL INTERRUPTION
+A Tale of Insecurity
+Microsoft, Stop Reading My Emails!
+The Cybiko
+Turing's Battle
+HACKER HAPPENINGS
+MARKETPLACE
+MEETINGS
+---------------
+:
+######
