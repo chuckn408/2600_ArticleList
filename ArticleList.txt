@@ -792,5 +792,42 @@ HACKER HAPPENINGS
 MARKETPLACE
 MEETINGS
 ---------------
+V40:N3
+######
+---------------
+V40:N4
+######
+The Road Behind
+The Dark Side of DNA Data
+The BoneBox
+Artificial Intelligence and Creativity
+Career and Gloating in Las Vegas
+TELECOM INFORMER
+Enhance Your Typing Experience With Mechanical Keyboards
+Adventures in Lockpicking
+Ooops; v97.129
+Geo-Distributed Bug Bounty Hunting
+Being a Hacker
+Byte-Sized Justice: A Tale of Hacker Ethics and Copy Protection
+A Quick Intro to Biohacking
+HACKER PERSPECTIVE
+Privacy: Protecting Your Personal Information Online
+The AI Risk Nobody Seems to Mention
+American Shanzhai, Part 4
+LETTERS
+EFFECTING DIGITAL FREEDOM
+Quantum Computer Algorithms, Part III: DES Decryption
+GPT Revolution: Reimagining Programming in the Era of AI
+Snitched Out by Tech
+I Fight for the Users
+ARTIFICIAL INTERRUPTION
+Platform Captialism Can't Surveil Absurdism (and Worse)
+Alzheimer's and AR Tech
+Book Review: Pegasus
+Book Review: Fancy Bear Goes Phishing
+HACKER HAPPENINGS
+MARKETPLACE
+MEETINGS
+---------------
 :
 ######
