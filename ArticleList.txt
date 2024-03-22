@@ -794,6 +794,32 @@ MEETINGS
 ---------------
 V40:N3
 ######
+Memories to Come
+Designing an OpenAI Powered IRC Chat Bot for Fun and Profit
+Cute App, But I'll Use My Own
+Saying Goodbye to an Old (GPFS) Friend
+The Arrival of 2600 Digital Delivery
+Why Aren't You Cracking Your Users' Passwords?
+A Technology Life Story
+Is AI More of a Tool or an Ethical Challenge?
+Quantum Proof Encryption
+But I Don't Want a Copilot
+HACKER PERSPECTIVE
+Diskless Malware
+Hacking the Airwaves
+Adventures in Zero Trust
+American Shanzhai, Part 3
+Go On a Journey
+Morbid Curiosity in the Weaponized AI Era
+See You on the C-Drive (A Series of Late 20th Century Fragments)
+ARTIFICIAL INTERRUPTION
+Is 2600 Still Relevant?
+Learn Linux, People!
+WasteTrackers and More
+Turing's Battle
+HACKER HAPPENINGS
+MARKETPLACE
+MEETINGS
 ---------------
 V40:N4
 ######
