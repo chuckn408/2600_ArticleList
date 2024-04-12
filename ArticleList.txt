@@ -855,5 +855,29 @@ HACKER HAPPENINGS
 MARKETPLACE
 MEETINGS
 ---------------
+V41:N1
+######
+Ill Communication
+"Trust Me, I'm a Professional." How to Social Engineer AI to Bypass Learned Ethics
+A Brief Guide to Sci-Hub
+Further Password Discourse - Fundamentals
+The Elephant in the Room
+Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data
+Listening to Your Computer
+"HP Smart" - Or a Lie in Two Words
+Overcoming Toyota USB Filesystem Limits
+About DuckDuckGo's Sources
+HACKER PERSPECTIVE
+Host Identification With USB Devices
+The Garden of Privacy
+Unglorifie Look at Your Career in IT
+Reflections on Wikileaks and Snowden
+Is Quantum Mechanics a Pseudoscience?
+I Killed Something Awful
+Binary Attitudes Do Not Belong in an Analog World
+GendBuntu, Free Software, and Microsoft in the French Government
+AI Is Not the Problem - We Are
+Lee Williams, Harassment Agent Episode 1
+---------------
 :
 ######
