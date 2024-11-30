@@ -899,7 +899,30 @@ Quick Disk Overwrite Script
 The Politics of Joyful Living - Minus Social Media and the Internet
 I Sell Shoe Oil
 Lee Williams, Harrassment Agent Episode 2
-
+---------------
+V41:N3
+######
+Turning Points
+Further Password Discourse - Better Practices
+Hacking the URL Schema
+The Need for Hackers
+What's Wrong With Us?
+Reverse Engineering: Tips and Tricks
+To Be Cashierless or Not to Be Cashierless.  That Is the Questions.
+Can ChromeOS Flex Actually Revive an Old Laptop?
+The Burnout Machine
+Introduction to the Rboot Operating System (ROS)
+Telecommunications REvolution
+HACKER PERSPECTIVE
+What Cops Really Want: Policing and Intelligence Gathering in the Digital Age
+Modern Hackers as Collective Thinkers
+Ten Teens and a Server Room
+Memories of a 30-Year-Old Non-coding Hacker
+How Ubuntu Helped Me Escape a Cult
+Reflections on Hacking and Teaching at State Universities
+Journey of a Hacker: From Curiosity to Advocacy in Fairfax County
+Keeping Hacker Culture Alive
+Lee Williamas, Harassment Agent Episode 3
 ---------------
 :
 ######
