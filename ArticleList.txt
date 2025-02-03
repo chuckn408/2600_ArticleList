@@ -924,5 +924,29 @@ Journey of a Hacker: From Curiosity to Advocacy in Fairfax County
 Keeping Hacker Culture Alive
 Lee Williamas, Harassment Agent Episode 3
 ---------------
+V41:N4
+######
+Doubling Down
+A Brief Look at Apple's Gatekeeper
+More Fun With URL Hacking
+Get Your Free Personal Info Here!
+Domain Name Battlefield: The Strength and Weakness of a Low Profile
+Press "P" for Perseverance
+TIS-100: What It Tasted Like
+The FCC and Ham Licensing
+After the Cyberattack
+Land of the Rising Subs
+Use OSINT to Investigate a Phishing Scam
+HACKER PERSPECTIVE
+Redteam Unauthenticated Client Active Directory Fun
+Hidden Injection
+What Comes Next for the Art of Hacking?
+Big Tech Is Not the Soviet Union - It's Captialism Gone Wild
+City of Flint - Pwned Hard
+Flatline: Digital Resurrections and the Dawn of Virtual Immortality
+Playlist
+Payphone Extenders: The Access Numbers That Replaced Red Boxing - Part 2
+Pierre O'Brien, Harassment Agent Episode 4
+---------------
 :
 ######
