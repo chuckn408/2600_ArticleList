@@ -948,5 +948,30 @@ Playlist
 Payphone Extenders: The Access Numbers That Replaced Red Boxing - Part 2
 Pierre O'Brien, Harassment Agent Episode 4
 ---------------
+V42:N1
+######
+Attitude Control
+Using Prediction Error-Inspired Insights to Tackle AI Bias and Hallucinations
+Brute Forcing a Website Passkey by Spoofing Web Authentication Using cURL
+Red Tape adn Bureaucacy - That's What's Wrong With Us
+Meditations on Societal Collapse (Via Payphone)
+The Perception Lens
+Hackers in Hospitals
+Setting Up a Simulated Enivronment for the Robot Operating System (ROS)
+Who Authors Unauthorized Access?
+Am I Still a Hacker if I Use an LLM?
+Building a Password Cracker Using OpenAI and Rust
+Nine Censored Haiku
+Zero-Day Markets: Inside the Shadow Economy of Exploits
+The Changing Definition and Practice of Privacy
+How I Learned to Stop Critical Thinking and Love Security Defaults
+What is the Hacker Ethic - Redux
+Take Me Out to the Reverse ATM
+The Cult of Youth
+A Timeline of Recent Search Engine Events
+Cybersecurity Can Be Expensive
+I Took the Red Pill: A Journey to Linux
+Lee Williams, Harassment Agent Episode 5
+---------------
 :
 ######
