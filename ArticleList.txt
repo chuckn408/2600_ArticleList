@@ -998,5 +998,28 @@ We Are Getting Dumber
 Piracy
 Lee Williams, Harassment Agent Episode 6
 ---------------
+V42:N3
+######
+HOPE for the Future
+Hack the Broligarchy: Big Tech's Political Coup and Our Digital Demise
+Ascent of the Chat-Kiddie?
+Identifying AI in Student Papers: No Ethical Use in Academia
+Malware in the Filesystem
+Observing the Wolves: Why Honeypots Matter in the Fight for Privacy
+Resonark: Beyond the Interrupt - AI, Harmony, and the Future of Privacy
+Incompetence and Encryption in the Church
+When Security Meets Reality
+Use OSINT to Initiate a Phishing Scam Campaign
+Banning TikTok Was Wrong; Ignoring the Ban is Lawlessness
+Rebuttal of "Quantum Proof Encryption"
+How to Search Google Without Running Their Yucky Scripts
+How I Became a Repo Man for a Day
+Building a Private Smartphone Stack With GrapheneOS
+Course: Hacker High School
+The Cost of Shallow Knowledge: A Tale From the Front Lines of Secuity
+A Tale of Innocence Lost
+Hacking Isn't About Code - It's About Persepective
+Lee Williams, Harrassment Agent Episode 7
+---------------
 :
 ######
