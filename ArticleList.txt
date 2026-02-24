@@ -1021,5 +1021,31 @@ A Tale of Innocence Lost
 Hacking Isn't About Code - It's About Persepective
 Lee Williams, Harrassment Agent Episode 7
 ---------------
+V42:N4
+######
+Gut Punch
+SnapSafe: Security on Android From Forensic Searches
+Trust Me- I'm Lying: Psychology and Social Engineering
+Should ICEBlock Be Open Source?
+Without Further Ado, ROS 2
+Using Linux in a VM as Your Daily Driver
+Decentralized Authentication Across the Web
+wpUsers.sh: Countering Disinformation With a Simple Bash Script
+Mobile Hotspots
+The Trojan Sentence
+Trauma Explains Why I'm a Hacker
+HOPE_16 Hack the Violin: This Time There's AI!
+Neuron Intelligence in Cyber Security Software, Part One
+Hacking at Leavse - A Doc, But Even More So
+Why Can't We Have Nice Things?
+Reclaiming the Shadows: Why Data Privacy Is the Battle of Our Time
+Ungovernable
+Aritificial Intelligence: The Imitation of Humanity
+You Are Being Hacked
+Big Tech, State Socialism, and Economic Democracy
+Chat Holmes and Watson
+Lee Williams, Harrassment Agent Episode 8
+---------------
 :
 ######
+---------------
