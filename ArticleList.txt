@@ -1046,6 +1046,29 @@ Big Tech, State Socialism, and Economic Democracy
 Chat Holmes and Watson
 Lee Williams, Harrassment Agent Episode 8
 ---------------
+V43:N1
+######
+Metamorphosis
+Trust But Verify: Cross-Checking LLMs (A Practical Workflow)
+Anti-Revisionist Malware
+Can AI Think?
+Datacenter Adventures
+Open Letter to Fellow Parents
+Vibe Hacking
+Modern BBSing: Scene Update
+Adidas Breach
+The Pirate's Code: From Blackbeard to BitTorrent
+AI-Powered License Plate Readers Are Ushering a Surveillance State
+Gatekeeping Is Just BBad OpSec
+Salting the NAS
+Never Miss Another Episode of Off The Hook
+Hacking NVMe Into AMI's Aptio BIOS for Fun and Non-Profit
+Low Cost Local Login for Nonprofits (A Cookbook)
+Prairie Dogs and Packet Dreams - A Personal Timeline of Hacker Ethics
+LLMs Are More Than Just Fancy Autocomplete
+Parasitic Computing Like It's 2001
+Dr. Hook vs. God's Eye Part One: The Sweltering Server Farm
+---------------
 :
 ######
 ---------------
