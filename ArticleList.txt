@@ -1069,6 +1069,30 @@ LLMs Are More Than Just Fancy Autocomplete
 Parasitic Computing Like It's 2001
 Dr. Hook vs. God's Eye Part One: The Sweltering Server Farm
 ---------------
+V43:N2
+######
+Age Control
+HOPE Springs Eternal
+The v6 Network Speaks First (Observation Is Reconnaissance Without Fingerprints)
+Using AI to Generate Code: Verification Coding Is Not Vibe Coding
+A Hacker to Me
+Bulletin Board Systems Are Back!
+Playing With ISP Hotspots for Fun and Profit
+Noc. Noc. Who's There?
+The Invisible Tap: Why I Think Vancouver's Transit Future Shouldn't be a "Black Box"
+How I Escaped From Domain Name Purgatory
+Move Fast and Break Everything
+Neuron Intelligence in Cyber Security Software, Part Two
+The Future of Self-Healing Systems Where Hackers and AI Collide
+Console Hacking Primer
+Free Windows Revisited
+Over the Hill and Through the Woods to the APple Store I Go - A Recounting
+Vibe Coding Kernel Exploits
+From Mind to Meal: How AI's Future Confirms We Live In a Rendered World
+The Path Towards Ethical AI
+Bringing Some GrapheneOS Tricks to iOS
+Dr. Hook vs. God's Eye Part Two: Digital Serpent in Electric Eden
+---------------
 :
 ######
 ---------------
